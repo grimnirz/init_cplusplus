@@ -1,0 +1,25 @@
+/Type of data in C++
+//am not making the same notes bruh
+
+#include <iostream>
+using namespace std;
+
+int main () {
+	int nu1 = 15;
+	float n2 = 14.25;
+	double n3 = 3.1416;
+	char c1 = 'Master piece'
+	
+	cout << n1;
+	cout << n2;
+	cout << n3;
+	cout << c1<<endl;
+	return 0;
+}
+
+
+
+//Int is for intenger numbers like 3 or 4.
+//Float is for floating numbers likes 3.14 or some stuff like that
+//double is for numbers like float but way larger like PI
+//char is for characters like the name says it, letter mdfk 
