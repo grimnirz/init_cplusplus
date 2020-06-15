@@ -1,0 +1,19 @@
+//Making my first program on C++ ever
+
+/*the #include means that you gonna load something i guess
+Meanwhile iostreams means input,output, stream.*/
+
+#include <iostream>
+using namespace std;
+//that over this is just for saying that that whill be present every time we use something from the module.
+
+//This is just a function
+//cout means C out, so, your printing some shit on the console.
+//endl is endline is for making a space between code lines in the console.
+
+int main() {
+	cout <<"Hello world!"<<endl;
+	return 0;
+}
+
+//you return to 0 because somebody says it have to.
